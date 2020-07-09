@@ -10,7 +10,7 @@ Inserts the generated text into the cursor position.
 ## How To
 
 1. Open an editor.
-2. Open command pallete (cmd + shift + p)
+2. Open command palette (cmd + shift + p)
 3. Type lorem command according to size you want to generate and press enter.
 4. Enjoy!
 
